@@ -1,0 +1,10 @@
+C:\Users\rtkik\source\repos\MyExamples\AtikKutusu\bin\Debug\AtikKutusu.exe.config
+C:\Users\rtkik\source\repos\MyExamples\AtikKutusu\bin\Debug\AtikKutusu.exe
+C:\Users\rtkik\source\repos\MyExamples\AtikKutusu\bin\Debug\AtikKutusu.pdb
+C:\Users\rtkik\source\repos\MyExamples\AtikKutusu\obj\Debug\AtikKutusu.Form1.resources
+C:\Users\rtkik\source\repos\MyExamples\AtikKutusu\obj\Debug\AtikKutusu.Properties.Resources.resources
+C:\Users\rtkik\source\repos\MyExamples\AtikKutusu\obj\Debug\AtikKutusu.csproj.GenerateResource.cache
+C:\Users\rtkik\source\repos\MyExamples\AtikKutusu\obj\Debug\AtikKutusu.csproj.CoreCompileInputs.cache
+C:\Users\rtkik\source\repos\MyExamples\AtikKutusu\obj\Debug\AtikKutusu.exe
+C:\Users\rtkik\source\repos\MyExamples\AtikKutusu\obj\Debug\AtikKutusu.pdb
+C:\Users\rtkik\source\repos\MyExamples\AtikKutusu\obj\Debug\AtikKutusu.csprojAssemblyReference.cache

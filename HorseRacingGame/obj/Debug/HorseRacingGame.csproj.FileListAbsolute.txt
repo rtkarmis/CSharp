@@ -1,0 +1,10 @@
+C:\Users\rtkik\source\repos\MyExamples\HorseRacingGame\bin\Debug\HorseRacingGame.exe.config
+C:\Users\rtkik\source\repos\MyExamples\HorseRacingGame\bin\Debug\HorseRacingGame.exe
+C:\Users\rtkik\source\repos\MyExamples\HorseRacingGame\bin\Debug\HorseRacingGame.pdb
+C:\Users\rtkik\source\repos\MyExamples\HorseRacingGame\obj\Debug\HorseRacingGame.csprojAssemblyReference.cache
+C:\Users\rtkik\source\repos\MyExamples\HorseRacingGame\obj\Debug\HorseRacingGame.Form1.resources
+C:\Users\rtkik\source\repos\MyExamples\HorseRacingGame\obj\Debug\HorseRacingGame.Properties.Resources.resources
+C:\Users\rtkik\source\repos\MyExamples\HorseRacingGame\obj\Debug\HorseRacingGame.csproj.GenerateResource.cache
+C:\Users\rtkik\source\repos\MyExamples\HorseRacingGame\obj\Debug\HorseRacingGame.csproj.CoreCompileInputs.cache
+C:\Users\rtkik\source\repos\MyExamples\HorseRacingGame\obj\Debug\HorseRacingGame.exe
+C:\Users\rtkik\source\repos\MyExamples\HorseRacingGame\obj\Debug\HorseRacingGame.pdb
