@@ -1,0 +1,6 @@
+C:\Users\rtkik\source\repos\KutuphaneOtomasyonu\Entity\bin\Debug\Entity.dll
+C:\Users\rtkik\source\repos\KutuphaneOtomasyonu\Entity\bin\Debug\Entity.pdb
+C:\Users\rtkik\source\repos\KutuphaneOtomasyonu\Entity\obj\Debug\Entity.csprojAssemblyReference.cache
+C:\Users\rtkik\source\repos\KutuphaneOtomasyonu\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+C:\Users\rtkik\source\repos\KutuphaneOtomasyonu\Entity\obj\Debug\Entity.dll
+C:\Users\rtkik\source\repos\KutuphaneOtomasyonu\Entity\obj\Debug\Entity.pdb
